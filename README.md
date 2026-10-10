@@ -17,4 +17,4 @@ The first builds a project with a top-level `SConstruct` for one target inside t
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
